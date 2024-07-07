@@ -13,6 +13,5 @@
 <img src="./assets/2.png">
 </div>
 .
-.
 
 
